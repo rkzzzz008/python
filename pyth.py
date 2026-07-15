@@ -7,4 +7,6 @@ if d>c:
     result=d-c
 else:
     result=c-d
-print("The difference between", d, "and", c, "is", result)    
+print("The difference between", d, "and", c, "is", result)
+
+printf("Program ended !")
